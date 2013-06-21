@@ -1,4 +1,4 @@
 dirty-bdd
 =========
 
-simpistic jasmine BDD wrapper
+simpistic (chai + jasmine) BDD wrapper
